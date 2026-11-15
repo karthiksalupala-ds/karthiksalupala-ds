@@ -1,68 +1,120 @@
-<h1 align="center">Hi there, I'm Karthik Salupala 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Automation+Engineer;Building+Autonomous+Agents+%26+Intelligent+Pipelines;Creator+of+AVNIET+WhatsApp+Placement+Bot;Python+%7C+GitHub+Actions+%7C+Serverless+APIs" alt="Typing SVG" />
-</p>
+<!-- ============================================================== -->
+<!-- 🎮 KARTHIK SALUPALA — CYBERPUNK / LINUX TERMINAL PROFILE README -->
+<!-- ============================================================== -->
+
+<div align="center">
+
+```text
+ ┌────────────────────────────────────────────────────────────────────────┐
+ │  🔴  🟡  🟢   karthik@archlinux: ~ (bash - 256color)                   │
+ └────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <p align="center">
-  <a href="https://github.com/karthiksalupala-ds"><img src="https://img.shields.io/github/followers/karthiksalupala-ds?label=Follow&style=social" /></a>
-  <a href="https://github.com/karthiksalupala-ds?tab=repositories"><img src="https://img.shields.io/github/stars/karthiksalupala-ds?style=social" /></a>
-</p>
-
----
-
-### 🚀 About Me
-
-- 🎓 **Tech Explorer & AI Engineer** focused on practical, high-impact automation and data systems.
-- 🤖 **Creator of [AVNIET WhatsApp Aptitude Platform](https://github.com/karthiksalupala-ds/whatsapp-aptitude-bot-showcase):** Autonomous placement training agent serving **1000+ students** daily across Batches 2027, 2028, and 2029 with real-time webhooks, automated quizzes, anti-ban pacing, and Sunday Hall of Fame rankings.
-- 💡 Passionate about **Serverless Systems, LLM Agents, CI/CD Pipeline Automation, and Full-Stack Engineering**.
-- 💬 Ask me about: **Python automation, GitHub Actions workflows, Webhook architecture, and Data Science**.
-
----
-
-### 🛠️ Tech Stack & Capabilities
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br/><br/>
-  <!-- AI, Automation & Backend -->
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=karthik%40archlinux%3A~%24+whoami;%3E+Karthik+Salupala+%7C+AI+Agent+Architect+%26+Data+Engineer;karthik%40archlinux%3A~%24+cat+active_missions.txt;%3E+AVNIET+WhatsApp+Bot+(1000%2B+Active+Users);%3E+FOLIO+(Live+at+foliopdf.me);karthik%40archlinux%3A~%24+status+--system;%3E+ALL+SYSTEMS+NOMINAL+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" alt="Terminal Typing" />
 </p>
 
 ---
 
-### 🌟 Featured Engineering Projects
+### 🖥️ `$ fastfetch --profile`
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🏆 **[AVNIET WhatsApp Aptitude Platform](https://github.com/karthiksalupala-ds/whatsapp-aptitude-bot-showcase)** | End-to-end placement training bot conducting daily quizzes, live webhook scoring, anti-ban pacing & Sunday Hall of Fame rankings for 1000+ engineering students. | `Python` `GitHub Actions` `Green API` `Apps Script` |
-| 🤖 **[AI Desktop Companion](https://github.com/karthiksalupala-ds/AI-Desktop-Companion)** | Intelligent desktop companion agent facilitating workflow automation and system assistance. | `Python` `AI` `Automation` |
-| 🌐 **[Personal Portfolio & Web Apps](https://github.com/karthiksalupala-ds/karthiksalupala-ds.github.io)** | Interactive portfolio showcasing software architecture, tools, and visual projects. | `HTML/CSS` `JavaScript` `GitHub Pages` |
-
----
-
-### 📊 GitHub Activity & Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthiksalupala-ds&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthiksalupala-ds&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksalupala-ds&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+```ansi
+[1;32m       /\         [1;37mkarthik[0m@[1;32marchlinux[0m
+[1;32m      /  \        [1;37m-----------------[0m
+[1;32m     /\   \       [1;32mOS[0m: Arch Linux x86_64
+[1;32m    /      \      [1;32mHost[0m: Autonomous AI Engine v3.0
+[1;32m   /   ,,   \     [1;32mKernel[0m: Deep Learning & Distributed Pipelines
+[1;32m  /   |  |  -\    [1;32mUptime[0m: 24/7 (Zero Downtime Mindset)
+[1;32m /_-''    ''-_\   [1;32mShell[0m: zsh 5.9 (xterm-256color)
+                  [1;32mClass[0m: AI Automation Mage [LVL. 99]
+                  [1;32mLocation[0m: Hyderabad, India 🇮🇳
+                  [1;32mCurrent Quest[0m: Building autonomous multi-agent swarms
+```
 
 ---
 
-<p align="center">
-  ⚡ <i>"Automating complex systems into seamless, reliable experiences."</i>
-</p>
+### 🎮 Player Stats & RPG Inventory
+
+```text
+ ┌── [ PLAYER ATTRIBUTES ] ──────────────────────────────────────────────┐
+ │  HP : [████████████████████] 100/100  | MANA: [████████████████████]  │
+ │  EXP: [████████████████░░░░]  85/100  | RANK: ELITE AUTOMATION WARLOCK│
+ └───────────────────────────────────────────────────────────────────────┘
+```
+
+#### 🗡️ Equipped Gear & Weaponry:
+- 🗡️ **Primary Weapon:** `Python 3.11+` (Deadly accurate data manipulation & logic)
+- 🛡️ **Shield & Armor:** `GitHub Actions CI/CD` (Automated defenses, cron schedules & auto-deployment)
+- ⚡ **Magic Spells:** `Serverless Webhooks` + `REST APIs` (Real-time trigger sorcery)
+- 🧪 **Alchemy Inventory:** `Pandas`, `NumPy`, `Google Apps Script`, `PostgreSQL`
+
+---
+
+### 🕹️ Active Quests & Battle Deployments
+
+```bash
+$ tree -L 1 /missions/deployed/
+```
+
+```text
+/missions/deployed/
+│
+├── 🏆 [MISSION: AVNIET-WHATSAPP-BOT]
+│   ├── Target     : Autonomous Placement Quiz Engine (Batches 2027, 2028, 2029)
+│   ├── Scale      : 1000+ Engineering Students Daily
+│   ├── Weaponry   : Python, GitHub Actions, Green API, Google Sheets Webhooks
+│   ├── Status     : ACTIVE (8:00 AM IST Daily Cron + Sunday Leaderboard)
+│   └── Intel      : https://github.com/karthiksalupala-ds/whatsapp-aptitude-bot-showcase
+│
+├── 🌐 [MISSION: FOLIO-PDF]
+│   ├── Target     : Full-Stack Next-Gen PDF Manipulation & Auth Engine
+│   ├── Domain     : https://foliopdf.me (LIVE)
+│   ├── Weaponry   : React 19, Vite, TanStack Router, Nitro, Better-Auth
+│   └── Status     : DEPLOYED & OPERATIONAL ON VERCEL
+│
+└── 🤖 [MISSION: AI-DESKTOP-COMPANION]
+    ├── Target     : Real-time intelligent workflow agent
+    ├── Weaponry   : Python, System APIs, Neural NLP
+    └── Intel      : https://github.com/karthiksalupala-ds/AI-Desktop-Companion
+```
+
+---
+
+### 📊 System Telemetry & Live Telemetry
+
+<div align="center">
+
+```text
+┌─── [ NETWORK STATS ] ────────────────────────────────────────────────────────┐
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=karthiksalupala-ds&show_icons=true&theme=matrix&hide_border=true&count_private=true&text_color=00FF66&icon_color=00FF66&title_color=FFFFFF&bg_color=0D1117" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthiksalupala-ds&theme=matrix&hide_border=true&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00FF66&background=0D1117" width="49%" />
+
+```text
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+### 💻 Terminal Access & Contact Console
+
+```bash
+$ curl -s https://karthik.terminal/contact.sh | bash
+```
+
+```text
+  [+] GITHUB   : https://github.com/karthiksalupala-ds
+  [+] DOMAIN   : https://foliopdf.me
+  [+] STATUS   : Available for high-impact AI/Data engineering missions.
+```
+
+<div align="center">
+  <br/>
+  <code>karthik@archlinux:~$ shutdown -h now --stay-curious</code>
+  <br/>
+</div>
